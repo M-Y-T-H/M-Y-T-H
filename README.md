@@ -1,6 +1,6 @@
 ![mythsanctum_cover](https://github.com/user-attachments/assets/7825af75-0b44-442d-b4a8-bcb483d2b81b)
 
-# 🔥 MYTH.OS Private Code Warehouse & Datafarm 🔥
+# MYTH.OS Private Code Warehouse & Datafarm
 
 ---
 
