@@ -31,7 +31,7 @@ For access requests, questions, or official communication, please reach out via:
 
 - **Email:** N/A 
 - **Community Forum:** [https://github.com/M-Y-T-H/M-Y-T-H/discussions]
-- **Wiki:** 
+- **Wiki:** [https://github.com/M-Y-T-H/M-Y-T-H/wiki]
 
 ---
 
