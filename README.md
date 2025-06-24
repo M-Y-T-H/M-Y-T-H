@@ -29,7 +29,7 @@ We fabricate our own reality here — a clean, sacred aether of innovation and p
 
 For access requests, questions, or official communication, please reach out via:  
 
-- **Email:** [contact@mythos.space](mailto:contact@mythos.space)  
+- **Email:** [contact@mythos.space](mailtoMYTH.OS@mailfence.com)  
 - **Community Forum:** [https://forum.mythos.space](https://forum.mythos.space)  
 - **Wiki:** [https://wiki.mythos.space](https://wiki.mythos.space)  
 
