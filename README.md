@@ -13,6 +13,7 @@
 ## About This Repository
 
 This repository serves as the central **code warehouse** and **datafarm** for all our projects, hubs, and exploratory work.  
+
 It is a **ghosted space**, designed for focused creation, free from mainstream noise, distractions, and outside interference.
 
 We fabricate our own reality here — a clean, sacred aether of innovation and pure intent, grounded in **love for the craft** and mastery of our message.
